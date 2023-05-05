@@ -1,5 +1,5 @@
-# Project Title
-Topic Modeling with Latent Dirichlet Allocation in Python
+#Topic Modeling with Latent Dirichlet Allocation in Python
+
 ![alt text](https://github.com/Zaheer-10/Topic-Modleing-With-Latent-Dirichlet-Allocation/blob/main/Images/Topic_modeling_image.png?raw=true)
 # Installation/Prerequisites
 To run this project, you will need to install the following Python packages:
