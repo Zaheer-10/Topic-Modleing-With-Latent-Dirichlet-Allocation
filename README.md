@@ -20,12 +20,11 @@ You can install them using pip or conda commands. For example:
 
 # References
 This project is based on the following resources:
-
-     -A friendly introduction to LDA by Edwin Chen: https://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation
-    - A tutorial on LDA by David Blei: http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf
-    - A Python library for LDA by Radim Rehurek: https://radimrehurek.com/gensim/models/ldamodel.html
-     -Vedio Ref - https://youtu.be/T05t-SqKArY
-    -Vedio-Refhttps://youtu.be/BaM1uiCpj_E
+ - A friendly introduction to LDA by Edwin Chen: `https://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation`
+ - A tutorial on LDA by David Blei: `http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf`
+ - A Python library for LDA by Radim Rehurek: `https://radimrehurek.com/gensim/models/ldamodel.html`
+ - Vedio Ref - `https://youtu.be/T05t-SqKArY`
+ - Vedio-Ref : `https://youtu.be/BaM1uiCpj_E`
     
  # LDA Workflow
  ![alt text](https://github.com/Zaheer-10/Topic-Modleing-With-Latent-Dirichlet-Allocation/blob/main/Images/lda-workflow.png?raw=true)
@@ -49,5 +48,6 @@ To run this project, you will need to follow these steps:
 5. Evaluate the model using perplexity and coherence scores.
 6. Visualize the topics and their keywords using pyLDAvis.
 
-# Link to My Blog : https://medium.com/@soulofmercara10/topic-modeling-with-lda-505151fdffec
+# Link to My Blog : 
+`https://medium.com/@soulofmercara10/topic-modeling-with-lda-505151fdffec`
 
