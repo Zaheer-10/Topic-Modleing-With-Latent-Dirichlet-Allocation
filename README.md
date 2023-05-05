@@ -1,6 +1,6 @@
 # Project Title
 Topic Modeling with Latent Dirichlet Allocation in Python
-
+![alt text](https://github.com/Zaheer-10/Topic-Modleing-With-Latent-Dirichlet-Allocation/blob/main/Images/Topic_modeling_image.png?raw=true)
 # Installation/Prerequisites
 To run this project, you will need to install the following Python packages:
 
@@ -13,6 +13,10 @@ To run this project, you will need to install the following Python packages:
 You can install them using pip or conda commands. For example:
 
 `pip install numpy`
+`pip install -U spacy`
+`python -m spacy download en`
+`import nltk`
+`nltk.download('stopwords')`
 
 # References
 This project is based on the following resources:
@@ -22,6 +26,9 @@ This project is based on the following resources:
     - A Python library for LDA by Radim Rehurek: https://radimrehurek.com/gensim/models/ldamodel.html
      -Vedio Ref - https://youtu.be/T05t-SqKArY
     -Vedio-Refhttps://youtu.be/BaM1uiCpj_E
+    
+ # LDA Workflow
+ ![alt text](https://github.com/Zaheer-10/Topic-Modleing-With-Latent-Dirichlet-Allocation/blob/main/Images/lda-workflow.png?raw=true)
 
 # FAQ
 Some frequently asked questions about this project are:
